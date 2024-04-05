@@ -3,3 +3,5 @@
 Cars
 
 Bike
+
+Rentals
